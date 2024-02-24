@@ -113,7 +113,7 @@ button[class^='btn']:hover {
 }
 
 .lead {
-    /* font-size: 1.8rem; */
+    font-size: 1.2rem;
     margin-bottom: 2rem;
 }
 
@@ -126,6 +126,8 @@ button[class^='btn']:hover {
     left: calc(50% - 1.5rem);
     width: 3rem;
     border-top: 5px var(--main-color) solid;
+    margin-bottom: 1rem;
+    padding: 2rem 0;
 }
 
 .py-1 {
@@ -335,7 +337,7 @@ button[class^='btn']:hover {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 1rem;
-    /* font-size: 1.5rem; */
+    font-size: 1.5rem;
 }
 
 #about-a .container .about-info .bio {
