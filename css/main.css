@@ -48,7 +48,7 @@ img {
 }
 
 .logo {
-    font-size: x-large;
+    /* font-size: x-large; */
     width: 220px;
     height: 70px;
     text-transform: uppercase;
@@ -113,7 +113,7 @@ button[class^='btn']:hover {
 }
 
 .lead {
-    font-size: 1.8rem;
+    /* font-size: 1.8rem; */
     margin-bottom: 2rem;
 }
 
@@ -228,7 +228,7 @@ button[class^='btn']:hover {
 }
 
 #header-home .container .header-content h2 {
-    font-size: 4rem;
+    /* font-size: 4rem; */
 }
 
 /* Sections: Home-a */
@@ -297,7 +297,7 @@ button[class^='btn']:hover {
     right: -15px;
     width: 50px;
     height: 50px;
-    font-size: 28px;
+    /* font-size: 28px; */
     line-height: 15px;
     border-radius: 50%;
 
@@ -389,7 +389,7 @@ button[class^='btn']:hover {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 2rem;
-    font-size: 1.2rem;
+    /* font-size: 1.2rem; */
 }
 
 #about-d .container .testimonials p {
@@ -488,7 +488,7 @@ button[class^='btn']:hover {
 
 #contact-a .container .text-fields .text-input {
     padding: 0.5rem 1rem;
-    font-size: 1.2rem;
+    /* font-size: 1.2rem; */
     outline-color: var(--main-color);
 }
 
@@ -519,7 +519,7 @@ button[class^='btn']:hover {
 
 /* Contact-c */
 #contact-c {
-    font-size: 1.5rem;
+    /* font-size: 1.5rem; */
 }
 
 /* Footer */
