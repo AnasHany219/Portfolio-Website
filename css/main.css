@@ -161,7 +161,7 @@ button[class^='btn']:hover {
 }
 
 .section-title {
-    font-size: 2.5rem;
+    /* font-size: 2.5rem; */
     text-align: center;
 }
 
@@ -242,7 +242,7 @@ button[class^='btn']:hover {
 
 #home-a .container .specials>div {
     padding: 2rem;
-    font-size: 1.5rem;
+    /* font-size: 1.5rem; */
 }
 
 #home-a .container .specials .fas {
@@ -273,11 +273,11 @@ button[class^='btn']:hover {
 }
 
 #home-b .stats li.state-title {
-    font-size: 1.5rem;
+    /* font-size: 1.5rem; */
 }
 
 #home-b .stats li.state-number {
-    font-size: 2rem;
+    /* font-size: 2rem; */
     font-weight: bold;
 }
 
@@ -287,7 +287,7 @@ button[class^='btn']:hover {
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 1.5rem;
     text-align: center;
-    font-size: 1.5rem;
+    /* font-size: 1.5rem; */
 }
 
 
@@ -335,7 +335,7 @@ button[class^='btn']:hover {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 1rem;
-    font-size: 1.5rem;
+    /* font-size: 1.5rem; */
 }
 
 #about-a .container .about-info .bio {
@@ -355,7 +355,7 @@ button[class^='btn']:hover {
 
 /* Section B: Progress Bars */
 #about-b {
-    font-size: 1.5rem;
+    /* font-size: 1.5rem; */
 }
 
 #about-b .container .progress {
@@ -499,7 +499,7 @@ button[class^='btn']:hover {
 
 #contact-a .container button {
     width: 50%;
-    font-size: 1.5rem;
+    /* font-size: 1.5rem; */
     padding: 0.5rem 0;
     margin-top: 1rem;
     border: none;
@@ -510,7 +510,7 @@ button[class^='btn']:hover {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     text-align: center;
-    font-size: 1.5rem;
+    /* font-size: 1.5rem; */
 }
 
 #contact-b .contact-info>div:hover {
@@ -534,7 +534,7 @@ button[class^='btn']:hover {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    font-size: 1.5rem;
+    /* font-size: 1.5rem; */
 }
 
 #main-footer .footer-content .social .fab {
